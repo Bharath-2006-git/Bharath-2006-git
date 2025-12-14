@@ -1,37 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=280&section=header&text=POLISETTI%20BHARATH&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=00D9FF&desc=AI/ML%20Enthusiast%20%E2%9C%A8%20BTech%20CSE%20Honors%20%E2%9C%A8%20Future%20AI%20Engineer&descAlignY=55&descSize=22&fontAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=header" alt="header"/>
 </div>
 
-<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&animation=fadeIn&lines=Hi+%F0%9F%91%8B+I'm+Polisetti+Bharath;AI%2FML+Enthusiast+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>🤖 AI/ML Enthusiast | 🚀 Future AI Engineer | 💡 Problem Solver | 🧠 Logic Builder</b>
+  <img src="https://img.shields.io/badge/💡-Problem_Solver-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🧠-Logic_Builder-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🎓-Critical_Thinker-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 <br>
 
----
-
 ## 🌟 About Me
 
-<table align="center">
+<table>
 <tr>
 <td width="60%" valign="top">
 
-### 👨‍💻 Polisetti Bharath
-
-> *A passionate student on a mission to become an AI Engineer and build intelligent solutions that make a difference!*
+> *Passionate learner on a mission to become an AI Engineer and build intelligent solutions that make a difference!*
 
 <br>
 
+<table>
+<tr>
+<td>
+
 **🎓 Education**  
-BTech Honors in Computer Science and Engineering
+BTech Honors in Computer Science & Engineering
 
 **📚 Currently Learning**  
-Machine Learning & Problem Solving (DSA)
+Machine Learning & Data Structures (DSA)
 
 **🤖 Aspiration**  
 Future AI Engineer
+
+</td>
+<td>
 
 **💡 My Strength**  
 Logic Building & Analytical Thinking
@@ -39,245 +46,143 @@ Logic Building & Analytical Thinking
 **✨ Belief**  
 _"In AI we trust, but first, we learn!"_
 
+**🎮 Hobbies**  
+Weekend Gaming & Story-driven RPGs
+
+</td>
+</tr>
+</table>
+
 <br>
 
-🌟 **What drives me:** I'm fascinated by how Artificial Intelligence and Machine Learning can solve real-world problems. Every day, I'm learning something new, whether it's understanding ML algorithms or sharpening my problem-solving skills through coding challenges.
+### 🚀 What Drives Me
+
+I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve real-world problems. Every day, I'm learning something new - whether it's understanding ML algorithms or sharpening my problem-solving skills through coding challenges.
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding at desk"/>
-
-<br><br>
-
-**🎮 Weekend Passion**  
-Gaming & Story-based Adventures
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding"/>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
+
+<br>
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ3aHlmNGY4dGY2YTVxbTJkYjB1cXU4bGlnZmtzZGM5N3FyY2N6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMt9638dO8dftAjtco/giphy.gif" width="60" alt="Skills"/>
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🤖 AI/ML & Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-</td>
-<td align="center" width="50%">
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFD43B)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
 
-### 🗄️ Database Management
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🤖 AI/ML & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=11557c)
 
-</td>
-</tr>
-</table>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
 
-<br><br>
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=F37626)
+
+</div>
+
+<br>
 
 ---
 
 ## 📈 Current Focus & Journey
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Learning"/>
-</p>
-
-### 🎯 My Learning Roadmap
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
-
+<td width="33%">
 <img src="https://img.shields.io/badge/🎯-MACHINE_LEARNING-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
-
-<br>
-
-🔍 **ML Algorithms**  
-📊 **Data Analysis**  
-📈 **Statistical Modeling**
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/💡-DSA_MASTERY-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
-
-<br>
-
-🧩 **Problem Solving**  
-⚡ **Algorithm Optimization**  
-🔥 **Competitive Coding**
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/🚀-LOGIC_BUILDING-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-
-<br>
-
-🧠 **Analytical Thinking**  
-💻 **Smart Solutions**  
-🎯 **Code Efficiency**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📚 Daily Focus
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-**🔥 What I'm Currently Focused On:**
-
-- 📚 Mastering **Machine Learning** algorithms and techniques
-- 💡 Practicing **Data Structures & Algorithms** daily
-- 🧠 Solving coding challenges to enhance **problem-solving** skills  
-- 📊 Learning **data visualization** and analysis techniques
-- 🏆 Improving **code efficiency** and best practices
-- 🌐 Understanding real-world **AI applications**
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
-
 <br><br>
+<b>🔍 ML Algorithms<br>📊 Data Analysis<br>📈 Statistical Modeling</b>
+</td>
+<td width="33%">
+<img src="https://img.shields.io/badge/💡-DSA_MASTERY-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<b>🧩 Problem Solving<br>⚡ Optimization<br>🔥 Competitive Coding</b>
+</td>
+<td width="33%">
+<img src="https://img.shields.io/badge/🚀-LOGIC_BUILDING-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<b>🧠 Analytical Thinking<br>💻 Smart Solutions<br>🎯 Code Efficiency</b>
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 ## 🎮 Beyond Code
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-### 💡 When I'm Not Coding
+🎮 Weekend gamer exploring story-driven RPGs • 🌍 Love epic world-building & creativity  
+🧠 Gaming helps me think differently • 🔄 Perfect way to unwind
 
-Life isn't just about code and algorithms! I believe in maintaining a healthy balance between work and passion.
+_**"Balance is key - code hard, play harder!"**_
 
-**My Gaming World:**
-- 🎮 Weekend warrior exploring story-driven games
-- 🎯 Love RPGs and adventure games with epic narratives
-- 🌍 Fascinated by incredible world-building in games
-- 🎨 Appreciate the art and creativity in game design
+</div>
 
-**Why Gaming Matters:**
-- 🧠 Helps me think creatively and problem-solve differently
-- 🎭 Amazing storytelling inspires innovative thinking
-- 🔄 Perfect way to unwind and recharge
-- 🎪 Immersive experiences spark imagination
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="350" alt="Gaming"/>
-
-<br><br>
-
-_"Balance is key - code hard, play harder!"_
-
-</td>
-</tr>
-</table>
-
-<br><br>
+<br>
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt="Connect"/>
+<a href="https://www.linkedin.com/in/polisettibharath/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="mailto:bharathpolisetti29@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+</a>
+<a href="https://github.com/Polisetti-Bharath">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+</a>
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polisettibharath/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathpolisetti29@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polisetti-Bharath)
-
-</div>
+<p align="center">
+💬 Open to: Tech Discussions • ML Insights • Gaming Chats • Learning Together
+</p>
 
 <br>
 
-<p align="center">
-  <b>💬 Feel free to reach out for:</b><br>
-  🤝 Tech Discussions | 💡 ML Insights | 🎮 Gaming Chats | 📚 Learning Together
-</p>
-
-<br><br>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" alt="Git"/>
-</p>
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Polisetti-Bharath/Polisetti-Bharath/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=footer" alt="footer"/>
-
-### 🌟 Thanks for visiting my profile!
 
 **⚡ "Building AI solutions one algorithm at a time!" ⚡**
 
-<br>
-
-**🚀 Open to collaborations, learning opportunities, and tech discussions! 🚀**
+🚀 Open to collaborations and learning opportunities 🚀
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/⭐_Star_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polisetti-Bharath?tab=repositories)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=footer" alt="footer"/>
 
 </div>
