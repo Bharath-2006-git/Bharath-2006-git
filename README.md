@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/🧠-Logic_Builder-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🎓-Critical_Thinker-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🏗️-Code_Architect-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 <br>
