@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&animation=fadeIn&lines=Hi+%F0%9F%91%8B+I'm+Polisetti+Bharath;AI%2FML+Enthusiast+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&animation=fadeIn&lines=Hi+%F0%9F%91%8B+I'm+Polisetti+Bharath;AI%2FML+Enthusiast+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -112,22 +112,24 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 
 <h2 align="center">📈 Current Focus & Journey</h2>
 
+<br>
+
 <table>
 <tr>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/🎯-MACHINE_LEARNING-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
-<b>🔍 ML Algorithms<br>📊 Data Analysis<br>📈 Statistical Modeling</b>
+<b>🔍 ML Algorithms<br><br>📊 Data Analysis<br><br>📈 Statistical Modeling</b>
 </td>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/💡-DSA_MASTERY-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
-<b>🧩 Problem Solving<br>⚡ Optimization<br>🔥 Competitive Coding</b>
+<b>🧩 Problem Solving<br><br>⚡ Optimization<br><br>🔥 Competitive Coding</b>
 </td>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/🚀-LOGIC_BUILDING-FFD700?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
-<b>🧠 Analytical Thinking<br>💻 Smart Solutions<br>🎯 Code Efficiency</b>
+<b>🧠 Analytical Thinking<br><br>💻 Smart Solutions<br><br>🎯 Code Efficiency</b>
 </td>
 </tr>
 </table>
