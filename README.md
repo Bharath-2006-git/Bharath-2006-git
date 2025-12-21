@@ -120,17 +120,17 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 
 <table>
 <tr>
-<td width="33%" align="left">
+<td width="33%" align="left" valign="top">
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
 <b>🔍 ML Algorithms<br><br>📊 Data Analysis<br><br>📈 Statistical Modeling</b>
 </td>
-<td width="33%" align="left">
+<td width="33%" align="left" valign="top">
 <img src="https://img.shields.io/badge/DSA_MASTERY-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
 <b>🧩 Problem Solving<br><br>⚡ Optimization<br><br>🔥 Competitive Coding</b>
 </td>
-<td width="33%" align="left">
+<td width="33%" align="left" valign="top">
 <img src="https://img.shields.io/badge/LOGIC_BUILDING-FFD700?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
 <b>🧠 Analytical Thinking<br><br>💻 Smart Solutions<br><br>🎯 Code Efficiency</b>
