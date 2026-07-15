@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,20:8b5cf6,40:ec4899,60:f43f5e,80:ff7e5f,100:feb47b&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0072ff,100:9D4EDD&height=180&section=header&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=4000&pause=1000&color=7E8A96&center=true&vCenter=true&repeat=false&width=550&height=70&lines=Polisetti+Bharath" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=550&height=70&lines=Polisetti+Bharath" alt="Name" />
 </h1>
 
 <h2 align="center">AI Engineer • Cloud Computing • CSE Honors '28</h2>
@@ -27,7 +27,7 @@
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0072ff&height=2" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -74,7 +74,7 @@
       </table>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJjlV/giphy.gif" width="260" alt="Developer Coding Illustration" />
+      <img src="https://images.unsplash.com/photo-1573164713988-8665fc963095?w=400&auto=format&fit=crop&q=80" width="240" alt="Developer at Workspace with Cyan Lights" />
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0072ff&height=2" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -134,7 +134,7 @@
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0072ff&height=2" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -164,7 +164,7 @@ When I'm not writing code, you'll find me deep in <b>strategy games and immersiv
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0072ff&height=2" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -190,4 +190,4 @@ When I'm not writing code, you'll find me deep in <b>strategy games and immersiv
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,20:8b5cf6,40:ec4899,60:f43f5e,80:ff7e5f,100:feb47b&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0072ff,100:9D4EDD&height=120&section=footer&animation=fadeIn" width="100%"/>
