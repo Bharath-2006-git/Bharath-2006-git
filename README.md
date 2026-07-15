@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <h1 align="center">Polisetti Bharath</h1>
 
@@ -20,16 +20,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/🎓-Critical_Thinker-6366f1?style=for-the-badge&labelColor=1e1b4b" />
 </p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00a2ff&height=2" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<br/>
 
 ## 👨‍💻 About Me
 
@@ -77,16 +67,6 @@
   </tr>
 </table>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00a2ff&height=2" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <br/>
@@ -128,16 +108,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00a2ff&height=2" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
 ## 🎮 Beyond Code
 
 <br/>
@@ -157,16 +127,6 @@ When I'm not writing code, you'll find me deep in <b>strategy games and immersiv
   &nbsp;
   <img src="https://img.shields.io/badge/Puzzle%20%26%20Tactics-a855f7?style=for-the-badge&logo=epicgames&logoColor=white" />
 </p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00a2ff&height=2" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<br/>
 
 ## 🤝 Let's Connect
 
