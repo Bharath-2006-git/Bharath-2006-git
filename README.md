@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<h1 align="center">Polisetti Bharath</h1>
+<h1 align="center">
+  <img src="name.svg" alt="Polisetti Bharath" />
+</h1>
 
 <h2 align="center">AI Engineer • Cloud Computing • CSE Honors '28</h2>
 
