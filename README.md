@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-  <img src="name.svg" alt="Polisetti Bharath" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=45&amp;duration=1&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=550&amp;height=70&amp;lines=Polisetti+Bharath" alt="Name" />
 </h1>
 
 <h2 align="center">AI Engineer • Cloud Computing • CSE Honors '28</h2>
