@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="100%" stop-color="#020408" />
+    </linearGradient>
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe">
+        <animate attributeName="stop-color" values="#00f2fe; #a855f7; #00f2fe" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7; #00f2fe; #a855f7" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe">
+        <animate attributeName="stop-color" values="#00f2fe; #a855f7; #00f2fe" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7; #00f2fe; #a855f7" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <style>
+    .footer-quote {
+      font-family: 'Righteous', 'Segoe UI', -apple-system, sans-serif;
+      font-size: 15px;
+      fill: url(#text-grad);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .footer-text {
+      font-family: 'Inter', 'Segoe UI', -apple-system, sans-serif;
+      font-size: 12px;
+      fill: #64748b;
+      font-weight: 600;
+      letter-spacing: 2px;
+    }
+    .border-glow {
+      stroke: url(#border-grad);
+      stroke-width: 2.5;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="12" />
+  <rect x="2" y="2" width="796" height="76" fill="none" class="border-glow" rx="10" />
+  <text x="40" y="46" class="footer-quote">Building intelligent systems, one algorithm at a time.</text>
+  <text x="760" y="46" class="footer-text" text-anchor="end">EST. 2028</text>
+</svg>

@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=120&section=header" alt="header"/>
-</div>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Header" />
+</p>
 
-<h1 align="center">
-  <span style="font-family: Poppins; font-weight: 600; font-size: 40px; color: #00D9FF;">Hi 👋 I'm Polisetti Bharath</span>
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Aspiring+AI+Engineer;Cloud+Computing+Specialist;Logic+Builder+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💡-Problem_Solver-FFD700?style=for-the-badge&labelColor=1a1a1a" />
@@ -16,187 +18,130 @@
   <img src="https://img.shields.io/badge/🏗️-Code_Architect-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
-<br>
+---
 
-<h2 align="center">
-  ✨ About Me 🚀
-</h2>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist/Man%20Technologist/Medium%20Light%20Skin%20Tone.png" alt="Developer" width="35" /> About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+I am a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I am dedicated to building intelligent applications, designing clean logic, and continuously expanding my technical foundations to design scalable systems.
 
-> *Passionate learner on a mission to become an AI Engineer and build intelligent solutions that make a difference!*
+* 🎓 **Education:** B.Tech Computer Science & Engineering (Honors)
+* ☁️ **Specialization:** Cloud Computing
+* 📅 **Expected Graduation:** 2028
+* 🎯 **Career Goal:** AI Engineer
 
-<br>
+---
 
-**🎓 Education** • BTech Honors in Computer Science & Engineering  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Technical Skills
 
-**📚 Currently Learning** • Machine Learning & Data Structures (DSA)  
-
-**🤖 Aspiration** • Future AI Engineer  
-
-**💡 My Strength** • Logic Building & Analytical Thinking  
-
-**✨ Belief** • _"In AI we trust, but first, we learn!"_  
-
-**🎮 Hobbies** • Weekend Gaming & Story-driven RPGs
-
-<br>
-
-**🚀 What Drives Me**
-
-I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve real-world problems. Every day, I'm learning something new - whether it's understanding ML algorithms or sharpening my problem-solving skills through coding challenges.
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding GIF"/>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Programming Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI / Machine Learning</h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Neural_Networks-9D4EDD?style=for-the-badge&logo=mindmeister&logoColor=white" alt="Neural Networks" />
+      <img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=for-the-badge&logo=google-brain&logoColor=white" alt="Deep Learning" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Backend &amp; Databases</h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+      <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Frontend Frameworks</h4>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🛠️ Tools &amp; Platforms</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
 </table>
 
-<br>
-
 ---
 
-<br>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Projects" width="35" /> Featured Projects
 
-<div align="center">
-
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFD43B)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
-
-### 🤖 AI/ML & Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=11557c)
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400" alt="Coding Animation"/>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td>
+      <h3 align="left">🌱 CarbonSense</h3>
+      <p align="left"><strong>Carbon Emission Tracking &amp; Analysis Platform</strong></p>
+      <p>A full-stack carbon footprint monitoring application designed to empower users to track, analyze, and reduce their environmental impact through automated calculators and recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <ul>
+        <li>📊 <strong>Analytics Dashboard:</strong> Live data visualization of emissions trends.</li>
+        <li>💡 <strong>Smart Recommendations:</strong> Personalized action items to lower footprint.</li>
+        <li>🔒 <strong>Secure Database:</strong> Relational database schema with secure user metrics on Supabase.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-</div>
+---
 
-<br>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" /> Learning Journey &amp; Areas of Interest
+
+To build a career in AI Engineering, I follow a systematic and rigorous roadmap transitioning from core concepts to distributed ML systems.
+
+| 📈 Currently Exploring | 📚 Areas of Interest |
+| :--- | :--- |
+| &bull; **Python for AI/ML** &bull; Machine Learning Algorithms<br>&bull; **Deep Learning** with PyTorch &bull; Data Analysis &amp; Visualization<br>&bull; **DSA** using Java &bull; Database Management Systems<br>&bull; **Developer Workflows** &bull; Linux &amp; Git/GitHub | &bull; Artificial Intelligence &bull; Machine Learning Engineering<br>&bull; Deep Learning &bull; Generative AI<br>&bull; Data Science &bull; Backend Engineering<br>&bull; Open Source Development |
 
 ---
 
-<br>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brainstorm/Target.png" alt="Target" width="35" /> Goals &amp; Beyond Code
 
-<div align="center">
-
-<h2 align="center">📈 Current Focus & Journey</h2>
-
-<br>
-
-<table>
-<tr>
-<td width="33%" align="left" valign="top">
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
-<br><br>
-<b>🔍 ML Algorithms<br><br>📊 Data Analysis<br><br>📈 Statistical Modeling</b>
-</td>
-<td width="33%" align="left" valign="top">
-<img src="https://img.shields.io/badge/DSA_MASTERY-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
-<br><br>
-<b>🧩 Problem Solving<br><br>⚡ Optimization<br><br>🔥 Competitive Coding</b>
-</td>
-<td width="33%" align="left" valign="top">
-<img src="https://img.shields.io/badge/LOGIC_BUILDING-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-<br><br>
-<b>🧠 Analytical Thinking<br><br>💻 Smart Solutions<br><br>🎯 Code Efficiency</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+| 🎯 Future Goals | ⚡ Beyond Coding |
+| :--- | :--- |
+| &bull; Build production-level AI applications<br>&bull; Improve problem-solving skills through DSA<br>&bull; Develop strong ML engineering foundations<br>&bull; Contribute to open-source projects<br>&bull; Create impactful AI-based solutions | &bull; **Exploring Tech Trends:** Tracking hardware &amp; architecture advances<br>&bull; **Creative Media:** Photography and creative editing<br>&bull; **Gaming:** Immersive rpgs &amp; strategy games<br>&bull; **Workflow Optimization:** Learning new developer tools |
 
 ---
 
-<br>
-
-<div align="center">
-
-<h2 align="center">🎮 Beyond Code</h2>
-
-🎮 Weekend gamer • 🌍 Story-driven RPGs • 🔄 Perfect way to unwind
-
-_**"Balance is key - code hard, play harder!"**_
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" /> Let's Connect
-</h2>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/polisettibharath/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&to=bharathpolisetti29@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-</a>
+  <a href="https://github.com/Polisetti-Bharath">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/polisettibharath/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bharathpolisetti29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-
-<br>
 
 <p align="center">
-💬 Open to: Tech Discussions • ML Insights • Gaming Chats • Learning Together
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
 </p>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-**⚡ "Building AI solutions one algorithm at a time!" ⚡**
-
-🚀 Open to collaborations and learning opportunities 🚀
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=120&section=footer" alt="footer"/>
-
-</div>
