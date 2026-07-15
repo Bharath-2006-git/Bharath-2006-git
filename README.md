@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,10,23&height=180&section=header&text=Bharath%20Polisetti&fontSize=50&fontColor=ffffff&fontName=Righteous&desc=AI%20Engineer%20%7C%20Cloud%20Computing%20Student&descSize=18&descAlign=50&descAlignY=65" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -20,23 +20,23 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist/Man%20Technologist/Medium%20Light%20Skin%20Tone.png" alt="Developer" width="35" /> About Me
+### 👤 About Me
 
-I am a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I am dedicated to building intelligent applications, designing clean logic, and continuously expanding my technical foundations to design scalable systems.
+I am a Computer Science Engineering student specializing in **Cloud Computing** and working toward becoming a professional **AI Engineer**. I focus on building robust machine learning foundations, solving complex algorithmic challenges, and designing modular, cloud-ready software solutions.
 
 * 🎓 **Education:** B.Tech Computer Science & Engineering (Honors)
-* ☁️ **Specialization:** Cloud Computing
-* 📅 **Expected Graduation:** 2028
-* 🎯 **Career Goal:** AI Engineer
+* ☁️ **Specialization:** Cloud Computing (Expected 2028)
+* 🎯 **Aspiration:** AI / Machine Learning Engineer
+* 🧠 **Focus:** Machine Learning, Deep Learning, and Core Software Development
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Technical Skills
+### 💻 Technical Skills
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Programming Languages</h4>
+      <h4>☕ Programming Languages</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -70,7 +70,7 @@ I am a Computer Science Engineering student passionate about **Artificial Intell
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🛠️ Tools &amp; Platforms</h4>
+      <h4>🛠️ Tools &amp; Technologies</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -83,7 +83,7 @@ I am a Computer Science Engineering student passionate about **Artificial Intell
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Projects" width="35" /> Featured Projects
+### 🚀 Key Projects
 
 <table width="100%">
   <tr>
@@ -100,7 +100,7 @@ I am a Computer Science Engineering student passionate about **Artificial Intell
       <ul>
         <li>📊 <strong>Analytics Dashboard:</strong> Live data visualization of emissions trends.</li>
         <li>💡 <strong>Smart Recommendations:</strong> Personalized action items to lower footprint.</li>
-        <li>🔒 <strong>Secure Database:</strong> Relational database schema with secure user metrics on Supabase.</li>
+        <li>🔒 <strong>Secure Database:</strong> Relational schema on Supabase for track logs.</li>
       </ul>
     </td>
   </tr>
@@ -108,7 +108,7 @@ I am a Computer Science Engineering student passionate about **Artificial Intell
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" /> Learning Journey &amp; Areas of Interest
+### 🧭 Learning Journey &amp; Areas of Interest
 
 To build a career in AI Engineering, I follow a systematic and rigorous roadmap transitioning from core concepts to distributed ML systems.
 
@@ -118,7 +118,7 @@ To build a career in AI Engineering, I follow a systematic and rigorous roadmap 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brainstorm/Target.png" alt="Target" width="35" /> Goals &amp; Beyond Code
+### 🎯 Goals &amp; Beyond Code
 
 | 🎯 Future Goals | ⚡ Beyond Coding |
 | :--- | :--- |
@@ -126,7 +126,7 @@ To build a career in AI Engineering, I follow a systematic and rigorous roadmap 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/Polisetti-Bharath">
@@ -143,5 +143,5 @@ To build a career in AI Engineering, I follow a systematic and rigorous roadmap 
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,10,23&height=80&section=footer&text=Building%20intelligent%20systems%20for%20the%20future.&fontSize=18&fontColor=ffffff" width="100%" alt="Footer" />
 </p>
