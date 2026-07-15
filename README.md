@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:8b5cf6,60:a855f7,100:c084fc&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,20:8b5cf6,40:ec4899,60:f43f5e,80:ff7e5f,100:feb47b&height=180&section=header&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=550&height=70&lines=Polisetti+Bharath" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=4000&pause=1000&color=7E8A96&center=true&vCenter=true&repeat=false&width=550&height=70&lines=Polisetti+Bharath" alt="Name" />
 </h1>
 
 <h2 align="center">AI Engineer • Cloud Computing • CSE Honors '28</h2>
@@ -13,8 +13,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Cloud%20Computing-6366f1?style=for-the-badge&logo=googlecloud&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Backend%20Development-a855f7?style=for-the-badge&logo=spring&logoColor=white" />
-  &nbsp;
   <img src="https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 <p align="center">
@@ -23,8 +21,6 @@
   <img src="https://img.shields.io/badge/🧠-Logic_Builder-9D4EDD?style=for-the-badge&labelColor=1e1b4b" />
   &nbsp;
   <img src="https://img.shields.io/badge/🎓-Critical_Thinker-6366f1?style=for-the-badge&labelColor=1e1b4b" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🔬-Research_Driven-4CAF50?style=for-the-badge&labelColor=1e1b4b" />
 </p>
 
 <br/>
@@ -41,7 +37,7 @@
 
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="65%" valign="top">
       <h3>👋 Hey, I'm Bharath!</h3>
       <p>
         <font size="4">
@@ -50,14 +46,14 @@
       </p>
       <p>
         <font size="4">
-          My work spans from designing <b>neural network architectures</b> and training <b>deep learning models</b> to building <b>scalable backend services</b> and <b>data pipelines</b>. I believe in learning by building — every project I ship makes me a sharper engineer.
+          My work spans from designing <b>neural network architectures</b> and training <b>deep learning models</b> to building <b>scalable cloud services</b> and <b>data pipelines</b>. I believe in learning by building: every project I ship makes me a sharper engineer.
         </font>
       </p>
       <br/>
       <table>
         <tr>
           <td><font size="4">🎓</font></td>
-          <td><font size="4"><b>B.Tech CSE (Honors)</b> — Cloud Computing • Class of 2028</font></td>
+          <td><font size="4"><b>B.Tech CSE (Honors)</b>: Cloud Computing • Class of 2028</font></td>
         </tr>
         <tr>
           <td><font size="4">🎯</font></td>
@@ -65,7 +61,7 @@
         </tr>
         <tr>
           <td><font size="4">🧠</font></td>
-          <td><font size="4"><b>Focus:</b> Deep Learning, Neural Networks & Backend Systems</font></td>
+          <td><font size="4"><b>Focus:</b> Deep Learning, Neural Networks &amp; Cloud Infrastructure</font></td>
         </tr>
         <tr>
           <td><font size="4">📚</font></td>
@@ -77,8 +73,8 @@
         </tr>
       </table>
     </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Developer" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJjlV/giphy.gif" width="260" alt="Developer Coding Illustration" />
     </td>
   </tr>
 </table>
@@ -97,69 +93,39 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="75" height="75" />
-      <br/><b><font size="4">Python</font></b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="75" height="75" />
-      <br/><b><font size="4">Java</font></b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="75" height="75" />
-      <br/><b><font size="4">SQL</font></b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="75" height="75" />
-      <br/><b><font size="4">JavaScript</font></b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="75" height="75" />
-      <br/><b><font size="4">React</font></b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="75" height="75" />
-      <br/><b><font size="4">Docker</font></b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="75" height="75" />
-      <br/><b><font size="4">GitHub</font></b>
-    </td>
-  </tr>
-</table>
+<h3 align="center">💻 Core Languages</h3>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
 <h3 align="center">🤖 AI & Machine Learning</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-<h3 align="center">🗄️ Backend & Databases</h3>
+<h3 align="center">🗄️ Cloud & Frameworks</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -178,11 +144,11 @@
 
 <br/>
 
-> <font size="4">*"The best strategy games teach you the same thing great engineering does — every decision has a cost, every resource is finite, and the best solutions come from thinking three moves ahead."*</font>
+> <font size="4">*"The best strategy games teach you the same thing great engineering does: every decision has a cost, every resource is finite, and the best solutions come from thinking three moves ahead."*</font>
 
 <p>
 <font size="4">
-When I'm not writing code, you'll find me deep in <b>strategy games and immersive RPGs</b>. I love games that reward patience, planning, and critical thinking — the same skills that make a great engineer. From managing civilizations to solving in-game puzzles, gaming sharpens my decision-making and keeps my problem-solving instincts razor-sharp.
+When I'm not writing code, you'll find me deep in <b>strategy games and immersive RPGs</b>. I love games that reward patience, planning, and critical thinking: the same skills that make a great engineer. From managing civilizations to solving in-game puzzles, gaming sharpens my decision-making and keeps my problem-solving instincts razor-sharp.
 </font>
 </p>
 
@@ -224,4 +190,4 @@ When I'm not writing code, you'll find me deep in <b>strategy games and immersiv
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:8b5cf6,60:a855f7,100:c084fc&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,20:8b5cf6,40:ec4899,60:f43f5e,80:ff7e5f,100:feb47b&height=120&section=footer&animation=fadeIn" width="100%"/>
